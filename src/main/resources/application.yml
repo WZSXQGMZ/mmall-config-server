@@ -11,7 +11,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/WZSXQGMZ/mmall-config
+          uri: https://github.com/WZSXQGMZ/mmall-config-server
           search-paths: mmall-configuration/
   application:
     name: mmall-config-server
