@@ -19,6 +19,6 @@ mybatis:
 eureka:
     client:
         serviceUrl:
-            defaultZone: http://localhost:8761/eureka/
+            defaultZone: http://192.168.56.3:8761/eureka/
 
 logging.level.org.springframework.boot.autoconfigure: ERROR
